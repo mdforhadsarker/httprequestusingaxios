@@ -1,0 +1,34 @@
+.Footer {
+  background-color: #282c34;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.Footer-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  color: aliceblue;
+}
+
+
+a:link {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  margin: 16px;
+}
+
+a:visited {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+a:hover {
+  text-decoration: underline;
+  color: rgb(255, 255, 255);
+}
+
+a:active {
+  text-decoration: underline;
+  color: rgb(255, 255, 255);
+}

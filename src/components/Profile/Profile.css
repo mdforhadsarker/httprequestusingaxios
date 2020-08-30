@@ -1,0 +1,18 @@
+.Container {
+  background-color: #282c34;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  padding: 2rem;
+  margin-top: 1rem;
+  
+}
+.Container-items {
+  background-color: antiquewhite;
+}
+
+.Container-items p {
+  padding: 0.5rem;
+  border: 1px solid rgb(75, 73, 73);
+}
+
